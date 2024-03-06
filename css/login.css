@@ -1,0 +1,52 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: rgb(49, 1, 49, 0.518);
+}
+h2{
+    float: right;
+    font-size: 30px;
+    font-weight: 700;
+    color:rgba(26, 1, 29, 0.945);
+    margin-top: 50px;
+    margin-right: 36%;
+}
+.imagem img{
+    margin-top: 50px;
+    float: left;
+    margin-left: 10%;
+    width: 30%;
+    
+}
+.form-label{
+    margin-top: 15px;
+    margin-left: 70px;
+    font-size: 20px;
+    font-weight: 600;
+}
+p{
+    float: right;
+    margin-top: 25px;
+    margin-right: 17%;
+    font-size: 20px;
+    font-weight: 600;
+}
+.formulario{
+    margin-right: 15%;
+    width: 40%;
+    float: right;
+}
+.btn{
+    width: 85vh;
+    margin-right: 10%;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    background-color: rgb(31, 1, 32);
+    color: whitesmoke;
+}
+.btn:hover{
+    background-color: #743d8d;
+
+}

@@ -1,0 +1,50 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    background-color: rgba(49, 1, 49, 0.518);
+}
+
+h1 {
+    font-size: 35px;
+    font-weight: 700;
+    color:rgba(26, 1, 29, 0.945);
+    padding-top: 30px;
+    padding-bottom: 20px;
+    margin-left: 40px;
+}
+.pagina{
+    color:rgba(26, 1, 29, 0.945);
+    font-size: 20px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+.form-control{
+    background-color: rgb(240, 240, 240);
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.opcao2{
+    margin-left: 40px;
+    margin-right: 5px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.opcao3{
+    background-color:rgb(240, 240, 240);
+    border-radius: 5px;
+    text-align: center;
+    font-weight: 600;
+    height: 30px;
+}
+.btn{
+    background-color: rgb(0, 53, 7);
+    margin-left: 40px;
+    color: rgb(243, 243, 243);
+    font-size: 20px;
+    font-weight: 600;
+}
+.btn:hover{
+    background-color: rgb(84, 202, 84);
+}
